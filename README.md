@@ -1,6 +1,6 @@
 ### Hi there 👋
-<div align="center"> <img src="https://metrics.lecoq.io/mengyiqwq?template=classic"> </div>
-![info](https://github-readme-stats.vercel.app/api?username=mengyiqwq&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+
+![d](https://github-readme-stats.vercel.app/api?username=mengyiqwq&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 <!--
 **mengyiqwq/mengyiqwq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
