@@ -2,8 +2,8 @@
 
 <div align="center">Hi,I'm <b>mengyiqwq</b> , a software engineer.</div>
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mengyiqwq&show_icons=true&count_private=true&hide=prs&theme=default_repocard" /> </div>
-- 🤔 Now I'm working on **lowCode Platform**.
--  ⚔️ I'm learning front-end now.
+- 🤔 Now I'm working on **lowCode Platform**.<br/>
+- ⚔️ I'm learning front-end now.
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mengyiqwq&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 <!--
 **mengyiqwq/mengyiqwq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
